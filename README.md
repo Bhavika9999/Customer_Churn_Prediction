@@ -120,7 +120,7 @@ Customer_Churn_Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/Bhavika9999/Customer_Churn_Prediction.git
 ```
 
 ### 2. Install Dependencies
